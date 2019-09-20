@@ -585,12 +585,13 @@ a:hover {
 
 .logo{
 
-  width: 2%;
+  width: 3%;
  /* color:#11999E;*/
  /* width:180px;*/
  /* height: 40px;*/
-  border-radius: 50%;
-  border: 3px solid lightblue;
+/*   border-radius: 50%; */
+ border-radius: 20% 0 20% 0;
+  border: 4px double #66BFBF;
 }
 
 .end{

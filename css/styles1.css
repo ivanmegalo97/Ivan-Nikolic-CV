@@ -130,7 +130,8 @@ h3 {
 
  h3 span{
   margin-top: 10px;
-  text-decoration: underline #03285d;
+/*   text-decoration: underline #03285d; */
+  text-decoration: none #03285d; */
   letter-spacing: 1px;
   font-size:1.2rem;
   font-weight: bold;
@@ -516,12 +517,14 @@ a {
   margin: 10px 20px;
  /* font-weight: bold;*/
   text-decoration: none;
+ text-decoration: underline;
 }
 
 a:hover {
   color: #EAF6F6;
   color:#03285d;
   text-decoration: underline;
+  text-decoration: none;
  /* color: #11999E;*/
  /* color:#002974;*/
 }
